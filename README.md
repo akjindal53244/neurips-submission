@@ -7,6 +7,13 @@
 <br><br>
 
 
+## Data Preparation Pipeline
+<img width="1196" alt="Training_Data_Prep_akjindal53244" src="https://github.com/akjindal53244/neurips-submission/assets/5215386/30aa0a51-a9c5-47a8-ba35-5faec0758449">
+
+
+
+
+
 Total Number of Submissions: 3
 
 - submission#1 directory: `submission_1`
