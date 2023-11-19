@@ -1,5 +1,10 @@
 # neurips-submission
 
+
+**Update 2023/11/18:** For model reproducibility, we have updated model path in submission_1 directory. Here is the [commit](https://github.com/akjindal53244/neurips-submission/commit/e29e562040445d820e429428f2269216dbe6eed7). Kindly pull the latest changes.
+
+
+
 Total Number of Submissions: 3
 
 - submission#1 directory: `submission_1`
